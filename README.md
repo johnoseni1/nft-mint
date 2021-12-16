@@ -1,5 +1,5 @@
-# nft-minter
-A Heroku web server to easily mint non-fungible tokens via an API
+# nft-mint
+genZtechies minting DAPP
 
 ### Example Configuration: 
 * Blockchain: Ethereum
